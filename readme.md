@@ -1,0 +1,4 @@
+Final project program that i used to pass the summer internship on "Machine Learning and Artificial Intelligence" conducted by ICT Academy of Kerala. 
+
+Problem statement: 
+A Fast Moving Consumer Goods (FMCG) company has entered the instant noodles business and has noticed a mismatch in demand and supply. This has resulted in a loss of inventory cost and ultimately a loss to the company. The goal is to build a model using historical data to determine an optimum weight of the product to be shipped from each warehouse. The dataset includes several features such as Warehouse ID, Warehouse Manager ID, Location Type, Warehouse Capacity Size, Zone, and more. The project will involve exploratory data analysis, pre-processing steps such as missing value handling and outlier detection, and predictive modeling using different algorithms.
